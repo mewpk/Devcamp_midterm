@@ -1,0 +1,25 @@
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+
+    
+}
+
+.flex-container-inner {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.item {
+    width: 100%;
+}
+
+.img-container {
+    margin: 10px;
+}
+
+.img-container img {
+    width: 100%;
+}
